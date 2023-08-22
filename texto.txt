@@ -1,0 +1,11 @@
+Al momento de trabajar con display: flex, sólo se utiliza justify-content y align-items.
+Al trabajar con grid, se hca referencia al content.
+Al trabajar con display: grid, se usa todo
+
+
+
+****PROGRAMACION****
+
+
+
+
